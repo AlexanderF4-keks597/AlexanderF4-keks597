@@ -1,4 +1,4 @@
-- EN 
+EN 
 - 👋 Hi, I’m @AlexanderF4-keks597
 - 👀 I’m interested in origami, drawing with a simple pencil, astronomy and listening to music
 - 🌱 I’m currently learning "Information technology and programming"
@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-- RU
+RU
 - 👋 Привет, я @AlexanderF4-keks597
 - 👀 Я интересуюсь оригами, рисованием простым карандашом, астрономией и слушаю музыку
 - 🌱 Сейчас я изучаю «Информационные технологии и программирование»
