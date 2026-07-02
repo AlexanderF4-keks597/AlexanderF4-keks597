@@ -1,7 +1,7 @@
 [EN]
 - 👋 Hi, I’m @AlexanderF4-keks597
 - 👀 I am interested in Python, a bit of HTML and JS, origami, drawing (with a graphite pencil and in Paint), astronomy, biology, and music.
-- 📫 How to reach me: Discord - sashaf4, Facebook - AlexanderIvanov or Gmail - ivanov2006sasha@gmail.com
+- 📫 How to reach me: Discord - sashaf4, Facebook - Alexander Ivanov or Gmail - ivanov2006sasha@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...I don't know what to write here, so I'll just wish you a good day...
 
